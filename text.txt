@@ -1,0 +1,358 @@
+MOHIT KUMAR MANDHRE
+              
+( STUDENT )
+ 
+Address
+ 
+ 
+M.I.G
+-
+1/63 ADITYA NAGAR DURG C.G.
+ 
+ 
+Phone
+ 
+ 
+ 
++918349729606
+ 
+E
+-
+mail
+ 
+ 
+ 
+mohitmandhre@gmail.com
+ 
+Date of birth
+ 
+ 
+23
+-
+02
+-
+1999
+ 
+LinkedIn
+ 
+ 
+https://www.linkedin.com/in/mohit
+-
+kumar
+-
+mandhre
+-
+ab451b190
+ 
+Github Profile
+ 
+https://github.com/MohitKumarMandhre
+ 
+ 
+Citizenship
+ 
+ 
+Indian
+ 
+Marital status
+ 
+Single
+ 
+
+ 
+To pursue graduate 
+studies in Computer Science and Engineering, leading to a career in research. I am 
+interested in computer vision and machine learning.
+ 
+ 
+Education
+ 
+05
+-
+2016
+ 
+ 
+(
+present
+)
+ 
+Shri Shankaracharya Technical Campus ( SSEC )
+ 
+Growing Computer Science Engineer , Aggregate
+ 
+till date :
+-
+ 
+82 % , CPI :
+-
+ 
+9.2
+ 
+05
+-
+2015
+ 
+05
+-
+2016
+ 
+DAV Public School Hudco Bhilai
+ 
+XII, Senior Secondary Education ,CBSE Board , Percentage: 74%
+ 
+05
+-
+2013
+ 
+05
+-
+2014
+ 
+DAV Public School Hudco Bhilai
+ 
+Xth, CBSE Board,
+ 
+CGPA: 9.2
+ 
+Skills
+ 
+Programming Language   :
+-
+    
+C , 
+C++, Core
+-
+Java, JavaScript, Python
+ 
+Data Management
+ 
+      
+:
+-
+ 
+ 
+ 
+DBMS, MySQL, MongoDB, PostgreSQL
+ 
+Web Development
+            
+:
+-
+ 
+  
+ 
+HTML, CSS, JAVASCRIPT, PHP, BOOTSTRAP
+ 
+Tools 
+                                
+:
+-
+   
+ 
+Django, NodeJS, Express, React
+-
+Native
+ 
+Algorithm, Data Structure,
+ 
+Computer Network, TOC, Compilers
+ 
+Project Activity
+ 
+
+ 
+ML and OpenCV
+ 
+(1)
+ 
+Movie Rating Prediction using Neural Network
+ 
+(2)
+ 
+IPL First Inning's Sore Prediction
+ 
+(3)
+ 
+Facial Expression
+ 
+(mood)
+ 
+Detection
+ 
+(4)
+ 
+Yawning Detection 
+and C
+ounter
+ 
+of Employ
+e
+es
+ 
+
+ 
+Django 
+Blogging
+ 
+full
+-
+featured
+ 
+Application
+ 
+can be used for writing blogs.
+ 
+
+ 
+COVID
+-
+19 Cases Tracker App
+ 
+
+ 
+Face Detection And Recognition Automated System
+ 
+
+ 
+Dynamic Website named "Be ready to Travel" using Django
+ 
+
+ 
+Data Management Project
+ 
+(1)
+ 
+SQL Indian Premier League (IPL) 
+Quiz
+ 
+(2)
+ 
+E
+-
+Library System
+ 
+ 
+
+ 
+AWS 
+ 
+Projects
+ 
+(1)
+ 
+Host a static website with HTTPS
+ 
+(2)
+ 
+Chatbot for booking a Car/Hotel
+ 
+(3)
+ 
+AWS Rekognition 
+-
+Image & Video
+ 
+Certificates
+ 
+o
+ 
+Certificate in Complete
+ 
+Python
+ 
+Bootcamp by
+ 
+Udemy
+ 
+.
+ 
+o
+ 
+Getting Started with
+ 
+AWS Machine Learning
+ 
+via
+ 
+Coursera.
+ 
+o
+ 
+Certification of
+ 
+Internet of Things
+ 
+(IOT) challenge dated by i3indiya Technologies presented by
+ 
+IIT Bombay
+.
+ 
+o
+ 
+Certification of Workshop on
+ 
+Ethical Hacking and Networking Security
+ 
+by TEQIP
+-
+III.
+ 
+o
+ 
+Certification of Workshop on
+ 
+Employbility Skill Training on Codin
+g Proficiency
+ 
+by TEQIP
+-
+III.
+ 
+o
+ 
+Certification of Introduction to
+ 
+Theory of Automata( TOC )
+ 
+by NPTEL by
+ 
+IIT Kharagpur
+.
+ 
+o
+ 
+Google Creative Cerification Exam,Google,Credential Id : 49170045
+.
+ 
+Extra
+-
+Curricular
+ 
+Activities
+ 
+
+ 
+Awarded certificate of appreciation for 
+successfully clearing the
+ 
+Insurance Consultant (IC) exam
+ 
+and 
+becoming an IC of
+ 
+Bajaj Allianz Life Insurance Company Ltd.
+ 
+https://drive.google.com/file/d/11BYj_BzrUNCtv6EkJ_FTbtyB98nTKgrG/view?usp=drivesdk
+ 
+
+ 
+Selected as one of participants nationwide Essay 
+Competition named YOUTH OF EKATAMA COMPETITION.
+ 
+
+ 
+Certification in Cricket Zonal Level at Youth Festival 2017
+-
+18.
+ 
+ 
