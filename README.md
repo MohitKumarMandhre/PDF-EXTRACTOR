@@ -13,7 +13,7 @@
 
 - ## resume PDF Example
 
-![alt text](https://github.com/MohitKumarMandhre/PDF-EXTRACTOR/blob/master/c-cv.PNG)
+![alt text](https://github.com/MohitKumarMandhre/PDF-EXTRACTOR/blob/master/c-cv2.PNG)
 
 
 - ## txt.py file contents which gets extracted from PDF
